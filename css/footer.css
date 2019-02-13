@@ -1,0 +1,30 @@
+.footer{
+	background: #fff;
+	padding-top: 15px;
+    text-align: center;
+    font-size: 0;
+    padding-bottom: 30px ;
+}
+.footer a,.footer span,.footer i{
+	font-size: 12px;
+}
+.footer span{
+	margin: 0 8px;
+}
+.footer .one a,.footer .one i,.footer .one span,.footer .tow a,.footer .tow i,.footer .tow span{
+	color:#666;
+}
+.footer .five,.footer .there a,.footer .there i,.footer .there span,.footer .five a,.footer .five i,.footer .five span,
+footer .four span,footer .four a,footer .four i{
+	color: #999;
+}
+.footer>div{
+	height: 25px;
+	line-height: 25px;
+}
+.footer .six{
+	margin-top: 5px;
+}
+.footer .six a{
+	margin-right: 12px;
+}
